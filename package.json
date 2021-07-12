@@ -80,7 +80,7 @@
     "eslint-plugin-standard": "^5.0.0",
     "husky": "^4.3.8",
     "jest": "^24.9.0",
-    "jest-config": "^26.6.3",
+    "jest-config": "^27.0.6",
     "jest-extended": "^0.11.5",
     "lint-staged": "^11.0.0",
     "prettier": "^2.3.2",
